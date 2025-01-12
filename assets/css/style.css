@@ -4,6 +4,6 @@ html, body, p {
 	margin: 0;
 	padding: 0;
 	background: #eee !important;
-	font-family: 'Rubik', serif;
+	font-family: 'Rubik', serif !important;
 }
 
