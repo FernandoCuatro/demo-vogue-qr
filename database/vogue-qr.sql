@@ -1,3 +1,5 @@
+CREATE DATABASE vogue_QR
+
 -- Creación de la tabla vt_usuarios_tipo
 CREATE TABLE vt_usuarios_tipo (
     tipo_usuario_id SERIAL PRIMARY KEY,
